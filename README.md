@@ -1,4 +1,4 @@
 # React Setup
 
-##Branch: react-eslint
+## Branch: react-eslint
 ESLint configurations for React App
