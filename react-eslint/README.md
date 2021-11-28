@@ -9,6 +9,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Create Linting Configuration file manually
 
 Create a .eslintrc file in the project root and enter the below contents:
+```
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ]
+}
+```
 
 ## VS Code Setup
 
