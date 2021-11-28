@@ -10,8 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Create a .eslintrc file in the project root and enter the below contents:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
 ## VS Code Setup
 
 ## Plugins
