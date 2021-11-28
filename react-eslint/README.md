@@ -12,13 +12,16 @@ Create a .eslintrc file in the project root and enter the below contents:
 ```
 {
   "extends": ["react-app", "plugin:prettier/recommended"],
-  "prettier/prettier": [
-    "error",
-    {
-      "endOfLine": "auto"
-    }
-  ]
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+  }
 }
+
 ```
 
 ## VS Code Setup
